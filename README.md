@@ -1,4 +1,4 @@
-## Overvies
+## Overview
 liff-playground
 
 ## Usage
