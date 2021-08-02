@@ -3,7 +3,7 @@ import solidPlugin from "vite-plugin-solid";
 
 export default defineConfig({
   plugins: [solidPlugin()],
-  base: "liff-playground",
+  base: "/liff-playground/",
   build: {
     target: "esnext",
     polyfillDynamicImport: false,
